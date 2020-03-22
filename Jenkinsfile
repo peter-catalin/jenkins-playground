@@ -19,8 +19,8 @@ pipeline {
         sh 'echo "Running tests..."'
         sh '''
             echo "This is an example"
-            echo "Of a multiline step"
-            echo "That works beautifully"
+            echo "of a multiline step"
+            echo "that works beautifully"
         '''
       }
     }
